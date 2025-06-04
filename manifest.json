@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Middle Click Scroll",
+  "version": "1.0",
+  "description": "Windows-style middle-click scrolling for smooth page navigation",
+  
+  "permissions": [
+    "activeTab"
+  ],
+  
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
