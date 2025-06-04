@@ -1,8 +1,7 @@
 
 # Scrolly
-## A dumb-as-heck _(non-pejorative)_ middle click scroll extension for Chrome/Chromium based browsers
 
----
+*A dumb-as-heck _(non-pejorative)_ middle click scroll extension for Chrome/Chromium based browsers*
 
 ## Why
 
@@ -12,8 +11,6 @@ Looking at Chrome extensions, I didn't see any that I trusted and anything I ins
 
 15 minutes later, I have a vibe-coded extension that I can self-serve. Hells yes.
 
----
-
 ## What
 
 Truly the most-minimal possible extension.
@@ -22,8 +19,6 @@ Truly the most-minimal possible extension.
 - Middle-click briefly again and it stops scrolls.
 
 The end.
-
----
 
 ## Installation
 
