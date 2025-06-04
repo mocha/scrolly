@@ -36,4 +36,5 @@ Claude says you should do this to make it work:
 
 ---
 
-That's it, love you byeeeeeeee
+This work is explicitly [unlicensed](/UNLICENSE). Do what thou wilt shall be the whole of the law -- _also might I add you look great today_ -- that's it love you byeeeeeeee
+
